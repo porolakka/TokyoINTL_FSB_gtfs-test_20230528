@@ -1,0 +1,2 @@
+agency_id,route_color,route_id,route_long_name,route_short_name,route_type
+HanedaINL_ShuttleBus,,CBUS_202305,羽田空港ターミナル間無料連絡バス,無料連絡バス,3
